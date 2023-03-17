@@ -1,0 +1,12 @@
+https://fullstackopen.com/es/part0/fundamentos_de_las_aplicaciones_web#aplicacion-de-una-sola-pagina
+
+
+npm start
+
+
+
+browser-sync start --server --files "css/*.css"
+
+
+INSTALAR CREATE REACT APP
+create-react-app part1
